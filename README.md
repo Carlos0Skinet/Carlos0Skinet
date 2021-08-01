@@ -1,4 +1,4 @@
-## Olá ! Sou Carlos Freitas :)
+## Olá ! Sou Carlos Freitas
 <div>
   <a href="https://github.com/Carlos0Skinet">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos0Skinet&theme=blue-green"/>
