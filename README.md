@@ -18,7 +18,7 @@
   <img align="center" alt="Carlos-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Carlos-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Carlos-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Carlos-ios" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ios/ios-original.svg">
+  <img align="center" alt="Carlos-ios" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/iOS/iOS-original.svg">
   </div>
   
   ##
