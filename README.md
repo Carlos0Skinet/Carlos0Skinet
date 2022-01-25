@@ -12,7 +12,7 @@
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carlos-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"">
   <img align="center" alt="Carlos-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"">
-  <img align="center" alt="Carlos-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cli/cli-original.svg"">
+  <img align="center" alt="Carlos-Firebase" height="30" width="40" src="https://p7.hiclipart.com/preview/777/431/624/5bbc1048ee30d-thumbnail.jpg">
   </div>
   
   ##
