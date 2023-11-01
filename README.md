@@ -10,7 +10,7 @@
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="Carlos-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php.net/php.net-original.svg">
+   
   
   
   <img align="center" alt="Carlos-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
