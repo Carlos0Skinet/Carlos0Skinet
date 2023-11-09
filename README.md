@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=EC0B43&lines=Web+Developer;Full+Stack)](https://git.io/typing-svg)
 <div align="left">
   <a href="https://github.com/Carlos0Skinet">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carlos0Skinet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carlos0Skinet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos0Skinet&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
